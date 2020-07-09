@@ -1,3 +1,8 @@
+👋 Hi I'm Adrian!
+
+I work as a designer at GitHub and I'd love to <kbd><strong>[hear your feedback on GitHub (Actions, Packages, or Pages)](https://github.com/adrianmg/adrianmg/issues/new?assignees=adrianmg&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd>
+
+
 # Did you know…?
 - 🎨 I design for a living and this is [my portfolio](https://adrianmato.com/).
 - ✈️ I love traveling; it's a good excuse for [taking pictures](https://500px.com/adrianmg).
