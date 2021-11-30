@@ -9,5 +9,5 @@ I work here as a designer and I'd love to <kbd><strong>[hear your feedback](http
 - 🎮 Video games are art; I like playing and [creating](https://github.com/adrianmg/arkanoid) them.
 - 🏃 Swimming and [running](https://twitter.com/adrianmg/status/1023607011684974592) keep my body and mind balanced.
 - 🐶 I love animals, and I truly miss [my dog Coco](https://www.instagram.com/p/BGtZevCLPL4/).
-- 🎨 I'm not really good at it, but I have fun with [3D art](http://tumblr.adrianmato.com/tagged/cinema4d).
+- 🎨 I'm not really good at it, but I have fun with [3D art](https://twitter.com/adrianmg/status/1451811259133792263).
 - 📖 Reading makes me think while keeping me curious.
