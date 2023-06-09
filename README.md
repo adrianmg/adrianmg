@@ -1,6 +1,6 @@
 👋 Hi I'm Adrian!
 
-I work here as a designer and I'd love to <kbd><strong>[hear your feedback](https://github.com/adrianmg/adrianmg/issues/new?assignees=adrianmg&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd> on Copilot and GitHub Actions!
+I work here and manage the Design team at Copilot!
 
 
 # Did you know…?
