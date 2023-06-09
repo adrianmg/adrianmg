@@ -2,6 +2,10 @@
 
 I work here and manage the Design team at Copilot!
 
+- [adrianmato.com](https://adrianmato.com)
+- [3D Wallpapers](https://adrianmato.art)
+- [github-pewpew](https://adrianmato.com/pewpew)
+
 
 # Did you know…?
 - 🎨 I design for a living and this is [my portfolio](https://adrianmato.com/).
